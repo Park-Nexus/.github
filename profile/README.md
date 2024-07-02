@@ -1,6 +1,6 @@
 
 <p align='center'>
-  <img src='../vertical-logo.png' alt=''  width='200' />
+  <img src='../vertical-logo.png' alt=''  width='150' />
 </p>
 
 ## Introduction
