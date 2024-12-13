@@ -14,6 +14,13 @@ Park Nexus is a platform that allows users to find parking spots in their area. 
 </p>
 
 ### Final Product Images
+#### Admin Portal
+![image101](https://github.com/user-attachments/assets/13c276bf-3fc7-4832-9d30-0c74f34a953d)
+![image102](https://github.com/user-attachments/assets/d3e64305-e885-4518-8139-d5329989e23d)
+<img width="1470" alt="image103" src="https://github.com/user-attachments/assets/39e8f619-ff01-407d-a394-a34d341a79a6" />
+<img width="1470" alt="image104" src="https://github.com/user-attachments/assets/e195fb3d-88c7-4a0c-9157-d395430aaf1e" />
+
+
 #### Mapview and Parking Lot
 <p align='center'>
   <img width="250" alt="image" src="https://github.com/user-attachments/assets/7a368c9d-6741-4458-924e-a78b696d57b4" />
