@@ -3,6 +3,7 @@
   <img src='../vertical-logo.png' alt=''  width='120' />
 </p>
 My Graduation Project 🌏
+
 Park Nexus is a platform that allows users to find parking spots in their area. Users can search for parking spots by location, price, and availability. We also allows users to rent out their own parking spots to other users.
 
 <p align='center'>
