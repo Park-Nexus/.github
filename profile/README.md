@@ -1,4 +1,4 @@
-#### My Graduation Project 🌏
+### My Graduation Project 🌏
 
 <p align='center'>
   <img src='../vertical-logo.png' alt=''  width='120' />
